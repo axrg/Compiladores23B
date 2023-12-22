@@ -1,0 +1,25 @@
+{
+  "abrir bloc de notas": "notepad.exe",
+  "abrir facebook": "https://www.facebook.com/",
+  "abrir lolero": "C:\\Riot Games\\Riot Client\\RiotClientServices.exe",
+  "abrir youtube": "https://www.youtube.com/watch?v=VafTMsrnSTU&ab_channel=TheWeekndVEVO",
+  "abrir word": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+  "abrir excel": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE",
+  "abrir teams": "C:\\Users\\siwon\\AppData\\Local\\Microsoft\\Teams\\Update.exe",
+  "abrir xbox": "C:\\Program Files\\WindowsApps\\Microsoft.GamingApp_2311.1001.7.0_x64__8wekyb3d8bbwe\\XboxPcApp.exe",
+  "abrir visual studio": "C:\\Users\\siwon\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+  "modo tarea": [
+    "abrir word",
+    "abrir excel",
+    "abrir teams",
+    "abrir visual studio"
+  ],
+  "modo juego": [
+    "abrir lolero",
+    "abrir youtube",
+    "abrir xbox"
+  ],
+  "abrir calculadora": "C:/Windows/System32/calc.exe",
+  "abrir carpeta documentos": "C:/Users/siwon/OneDrive/Documentos",
+  "abrir google": "https://www.google.com/"
+}
